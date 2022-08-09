@@ -71,10 +71,14 @@
     margin-right: .25rem;
 }
 
-.populares__card___header{
+.populares__header{
     border-bottom: 1px solid #dcdcdc;
     display: flex;
     justify-content: space-between;
+}
+
+.populares__card___header{
+    border-bottom: 1px solid #dcdcdc;
 }
 
 .populares__boton{

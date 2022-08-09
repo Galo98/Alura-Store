@@ -10,3 +10,11 @@ Establecer el número de columnas.
 Establecer el número de líneas.
 Especificar a los elementos dónde empezar y dónde terminar.
 Establecer el espacio entre filas y columnas.
+
+Que es posible tener una grid dentro de otra.
+Calcular el ancho.
+
+Centralizar el contenido.
+Agregar bordes.
+Darle estilo al desplazamiento del mouse.
+Agregar el símbolo de copyright.
