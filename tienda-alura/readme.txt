@@ -18,3 +18,6 @@ Centralizar el contenido.
 Agregar bordes.
 Darle estilo al desplazamiento del mouse.
 Agregar el símbolo de copyright.
+
+Utilizar media queries para que el sitio sea responsivo.
+Aplicar diferentes reglas a diferentes pantallas.
