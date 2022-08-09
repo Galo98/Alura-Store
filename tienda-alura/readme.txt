@@ -1,0 +1,6 @@
+Conocimientos aprendidos
+
+Definir una template y crear áreas.
+Definir el tamaño de las columnas.
+Establecer el tamaño de las líneas.
+Colocar los elementos en sus áreas.
